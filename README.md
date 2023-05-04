@@ -8,7 +8,7 @@ Being a technical leader is hard and requires managing multiple, complex situati
 
 Please read the [guidelines](https://github.com/apiadventures/tl-community/blob/main/community-intro.md) before you go any further.
 
-# Invitaion #
+# Invitations #
 
 Can I invite others to the slack community? *Yes, but* first do they 'cut the mustard?' ?
 - have you worked with them directly in the past (or present) ?
